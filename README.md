@@ -1,4 +1,4 @@
-![logo](https://github.com/luminarakash/luminarakash/blob/main/Luminarakash.png)
+![logo](https://github.com/luminarakash/luminarakash/blob/main/bannerr.gif)
 <h1 align="center">Hi 👋, I'm Akash</h1>
 
 <h3 align="center">A passionate full-stack web developer from India</h3>
